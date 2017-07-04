@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
+title: Louis Teitelbaum
 description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
+email: louis@teitelbaum.us
 
 menu:
 - {name: 'Projects', url: ''}
@@ -58,10 +58,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'facebook', link: 'https://www.facebook.com/parshahcuts/'}
+- {icon: 'envelope', link: 'mailto:louis@teitelbaum.us'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

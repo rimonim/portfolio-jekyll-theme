@@ -48,8 +48,8 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Parshah', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Holidays', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Parshah', folder: 'parshah', file: 'projects/parshah.html'}
+- {name: 'Holidays', folder: 'holidays', file: 'projects/holidays.html'}
 
 #-------------------------------
 # Contact Section

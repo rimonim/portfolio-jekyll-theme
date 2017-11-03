@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Louis Teitelbaum
-description: Powered by Jekyll and GitHub Pages
+title: Torah Cuts
+description: Jewish Papercuts for Bar Mitzvahs, Bat Mitzvahs, Weddings, and more by Louis Teitelbaum
 email: louis@teitelbaum.us
 
 menu:
@@ -17,7 +17,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Jewish Papercuts for Bar Mitzvahs, Bat Mitzvahs, Weddings, and more by Louis Teitelbaum'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
